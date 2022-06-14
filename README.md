@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me just text me👍
+- 
 
 <!---
 ARCTIX07/ARCTIX07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
